@@ -1,15 +1,27 @@
 # Verilog Practice
 
-This repository contains simple beginner-level Verilog examples, including:
+This repository contains beginner-level Verilog HDL programs for practicing digital design concepts.
 
-- AND Gate
-- OR Gate
-- 2-to-1 Multiplexer
+## 🔧 What’s Included
 
-## Files
+- Half Adder
+- Full Adder
+- 4-bit Ripple Carry Adder
+- 2:1 Multiplexer
+- 4:1 Multiplexer
+- D Flip-Flop
+- T Flip-Flop
+- 4-bit Counter
+- Simple Testbenches for simulation
 
-- `and_gate.v`: Simple 2-input AND gate
-- `or_gate.v`: Simple 2-input OR gate
-- `mux2to1.v`: 2-to-1 Multiplexer using conditional operator
+## 📚 Getting Started
 
-These examples are intended for those starting to learn RTL and Verilog.
+You can run these programs using tools like:
+
+- [EDA Playground](https://www.edaplayground.com/)
+- [Icarus Verilog](http://iverilog.icarus.com/)
+- [ModelSim](https://eda.sw.siemens.com/en-US/ic/modelsim/)
+
+## 📂 Folder Structure
+
+
