@@ -1,3 +1,5 @@
+https://github.com/vishnu-patil01/verilog-practice/blob/main/unnamed.png?raw=true
+
 # Verilog Practice
 
 This repository contains beginner-level Verilog HDL programs for practicing digital design concepts.
