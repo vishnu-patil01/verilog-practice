@@ -23,5 +23,13 @@ You can run these programs using tools like:
 - [ModelSim](https://eda.sw.siemens.com/en-US/ic/modelsim/)
 
 ## 📂 Folder Structure
+📁 verilog-practice/
+├── and_gate.v
+├── or_gate.v
+├── mux2to1.v
+├── d_ff.v
+├── t_ff.v
+├── ripple_adder.v
+├── README.md
 
 
